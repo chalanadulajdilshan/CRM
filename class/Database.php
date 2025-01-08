@@ -18,8 +18,8 @@ class Database {
     //   private $user = 'suhatdux_auroralanka';
     //  private $password = 'iE,@lxE0HGWr';
 
-        private $host = 'localhost';
-    private $name = 'festi';
+    private $host = 'localhost';
+    private $name = 'CRM';
     private $user = 'root';
     private $password = '';
     public $DB_CON = '';
